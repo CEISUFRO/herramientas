@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>imagen on CEIS - UFRO</title><link>https://ceisufro.github.io/herramientas/tags/imagen/</link><description>Recent content in imagen on CEIS - UFRO</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ceisufro.github.io/herramientas/tags/imagen/index.xml" rel="self" type="application/rss+xml"/><item><title>Carbon code</title><link>https://ceisufro.github.io/herramientas/p/carbon/</link><pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate><guid>https://ceisufro.github.io/herramientas/p/carbon/</guid><description>&lt;img src="https://ceisufro.github.io/herramientas/p/carbon/code.jpg" alt="Featured image of post Carbon code" />&lt;p>A la hora de generar imagenes de código para articulos, presentaciones, problemas de prueba etc. una captura de pantalla deja pocas opciones a la hora de hacer compatible con la estetica del documento en donde se utiliza la imagen.
+Con &lt;a class="link" href="https://carbon.now.sh/" target="_blank" rel="noopener"
+>Carbon&lt;/a> solo hay que copiar el código del que se quiere sacar la captura y con eso es suficiente para generar una imagen en PNG o SVG. Y en el caso de que se quiera configurar de alguna forma especial, estan las opciones disponibles en el &amp;ldquo;engrane&amp;rdquo;.&lt;/p>
+&lt;p>&lt;img src="https://ceisufro.github.io/herramientas/herramientas/p/carbon/carbon.png"
+width="982"
+height="795"
+srcset="https://ceisufro.github.io/herramientas/herramientas/p/carbon/carbon_huad99b0bee8743270027d6f291cb965c3_86001_480x0_resize_box_3.png 480w, https://ceisufro.github.io/herramientas/herramientas/p/carbon/carbon_huad99b0bee8743270027d6f291cb965c3_86001_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="carbon"
+class="gallery-image"
+data-flex-grow="123"
+data-flex-basis="296px"
+>&lt;/p></description></item></channel></rss>

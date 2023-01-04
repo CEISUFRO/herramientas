@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Herramientas on CEIS - UFRO</title><link>https://ceisufro.github.io/herramientas/categories/herramientas/</link><description>Recent content in Herramientas on CEIS - UFRO</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ceisufro.github.io/herramientas/categories/herramientas/index.xml" rel="self" type="application/rss+xml"/><item><title>Carbon code</title><link>https://ceisufro.github.io/herramientas/p/carbon/</link><pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate><guid>https://ceisufro.github.io/herramientas/p/carbon/</guid><description>&lt;img src="https://ceisufro.github.io/herramientas/p/carbon/code.jpg" alt="Featured image of post Carbon code" />&lt;p>A la hora de generar imagenes de código para articulos, presentaciones, problemas de prueba etc. una captura de pantalla deja pocas opciones a la hora de hacer compatible con la estetica del documento en donde se utiliza la imagen.
+Con &lt;a class="link" href="https://carbon.now.sh/" target="_blank" rel="noopener"
+>Carbon&lt;/a> solo hay que copiar el código del que se quiere sacar la captura y con eso es suficiente para generar una imagen en PNG o SVG. Y en el caso de que se quiera configurar de alguna forma especial, estan las opciones disponibles en el &amp;ldquo;engrane&amp;rdquo;.&lt;/p>
+&lt;p>&lt;img src="https://ceisufro.github.io/herramientas/herramientas/p/carbon/carbon.png"
+width="982"
+height="795"
+srcset="https://ceisufro.github.io/herramientas/herramientas/p/carbon/carbon_huad99b0bee8743270027d6f291cb965c3_86001_480x0_resize_box_3.png 480w, https://ceisufro.github.io/herramientas/herramientas/p/carbon/carbon_huad99b0bee8743270027d6f291cb965c3_86001_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="carbon"
+class="gallery-image"
+data-flex-grow="123"
+data-flex-basis="296px"
+>&lt;/p></description></item><item><title>Tablas en Latex</title><link>https://ceisufro.github.io/herramientas/p/latex-table/</link><pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate><guid>https://ceisufro.github.io/herramientas/p/latex-table/</guid><description>&lt;img src="https://ceisufro.github.io/herramientas/p/latex-table/tablaSimple.png" alt="Featured image of post Tablas en Latex" />&lt;p>Latex con su aplia sintaxis, suele ser dificil acordarse de algunos elementos tales como las tablas, las cuales pueden variadas en cuanto a forma y configuraciones.&lt;/p>
+&lt;p>Algunas alternativas para poder construir estas tablas pueden ser:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a class="link" href="https://www.tablesgenerator.com/" target="_blank" rel="noopener"
+>tables generator&lt;/a>&lt;/p>
+&lt;p>Sitio que permite crear tablas de forma grafica y lyego es posible exportar a variados formatos, entre los cuales estan latex, html, txt, markdown y media wiki.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a class="link" href="https://tableconvert.com/" target="_blank" rel="noopener"
+>table convert&lt;/a>&lt;/p>
+&lt;p>Si ya tienes la tabla creada en Excel, csv o en otro formato. Este sitio te permite exportar de forma muy sencilla las tablas a latex, html, markdown, entre otros formatos.&lt;/p>
+&lt;/li>
+&lt;/ul></description></item></channel></rss>
